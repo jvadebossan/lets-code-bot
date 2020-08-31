@@ -323,4 +323,4 @@ async def tapa(message, arg1):
     await message.send(choice(lista_gif_tapas))
 
 #BOT TOKEN
-bot.run('NzQ5Mjk2MDA1MDEwMjkyNzk2.X0p6SA.uGrJSvNCZrUg7weMU-qCxZ43Voc')
+bot.run('')
