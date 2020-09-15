@@ -6,8 +6,9 @@ Esse bot foi feito com o intuito de aprender. Ele aidna está em desenvolvimento
 https://bit.ly/2FE84VE
 
 Devido a ele ainda estar em desenvolviemnto, as vezes ele pode apresentar falhas ou sair do ar.
+OBS: Todos os arquivos devem estar na mesma pasta ao serem executados
 
-Requerimentos ara hospedar o bot em sua própria maquina:
+Requerimentos para hospedar o bot em sua própria maquina:
 
 pip install discord.py
 pip install requests
